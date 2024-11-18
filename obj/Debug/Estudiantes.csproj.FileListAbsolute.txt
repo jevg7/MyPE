@@ -1,0 +1,20 @@
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\juare\OneDrive\Escritorio\Inventario\Estudiantes\obj\Debug\Estudiantes.pdb
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\bin\Debug\Estudiantes.exe.config
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\bin\Debug\Estudiantes.exe
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\bin\Debug\Estudiantes.pdb
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\obj\Debug\Estudiantes.csproj.AssemblyReference.cache
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\obj\Debug\Estudiantes.Form1.resources
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\obj\Debug\Estudiantes.Properties.Resources.resources
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\obj\Debug\Estudiantes.csproj.GenerateResource.cache
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\obj\Debug\Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\obj\Debug\Estudiantes.exe
+C:\Users\Jairo\Desktop\MYPE-Gabriel-Ju-rez\Sesion #13\Estudiantes\obj\Debug\Estudiantes.pdb
